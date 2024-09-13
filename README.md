@@ -1,1 +1,1 @@
-# IP
+# digital image processing
