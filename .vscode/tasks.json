@@ -11,6 +11,8 @@
                 "-o",
                 "${workspaceFolder}\\${fileBasenameNoExtension}.exe",
                 "-I",
+                "${workspaceFolder}\\E*",
+                "-I",
                 "D:/code_programmer/opencv/build/x64/mingw/install/include",
                 "-I",
                 "D:/code_programmer/opencv/build/x64/mingw/install/include/opencv2",
