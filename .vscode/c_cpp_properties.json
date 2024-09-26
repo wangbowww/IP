@@ -6,7 +6,7 @@
                 "${workspaceFolder}/**",
                 "D:/code_programmer/opencv/build/x64/mingw/install/include",
                 "D:/code_programmer/opencv/build/x64/mingw/install/include/opencv2",
-                "${workspaceFolder}/E*"
+                "${workspaceFolder}/E"
             ],
             "defines": [
                 "_DEBUG",

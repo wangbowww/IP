@@ -29,8 +29,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Weirdo/Desktop/IP/E1",
-      "program": "c:/Users/Weirdo/Desktop/IP/E1/build/Debug/outDebug",
+      "cwd": "c:/Users/Weirdo/Desktop/IP/E",
+      "program": "c:/Users/Weirdo/Desktop/IP/E/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
